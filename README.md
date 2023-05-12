@@ -1,2 +1,2 @@
-# D.Muoi
-Thiệp mời dượng mười
+# C.Muoi
+Thiệp mời Cậu mười
